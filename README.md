@@ -8,7 +8,7 @@
 
  <!-- <h1 align="center"> 
   <img height="320" src="./assets/images/calculator_flutter.gif" alt="Calculator_flutter" />
-</h1> --> -->
+</h1> -->
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -34,12 +34,13 @@ Application developed with Next Js from Web.
 
 The following tools were used in this project:
 
-- [Next](https://nextjs.org/)
+- [Next.js](https://nextjs.org/)
+- [Node.js](https://nodejs.org/en/)
 - [Power Shell 5.0](https://docs.microsoft.com/pt-br/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-windows-powershell-5-1)
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Next.js](https://nextjs.org/)  and [VS CODE](https://code.visualstudio.com/) installed.
+Before starting :checkered_flag:, you need to have [Next.js](https://nextjs.org/), [Node.js](https://nodejs.org/en/)  and [VS CODE](https://code.visualstudio.com/) installed.
 
 ## :checkered_flag: Starting ##
 
