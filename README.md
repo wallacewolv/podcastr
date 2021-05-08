@@ -1,10 +1,26 @@
 <h1 align="center">Podcastr</h1>
 
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/wallacewolv/podcastr?color=56BEB8">
+
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/wallacewolv/podcastr?color=56BEB8">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wallacewolv/podcastr?color=56BEB8">
+
+  <img alt="License" src="https://img.shields.io/github/license/wallacewolv/podcastr?color=56BEB8">
+
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/wallacewolv/podcastr?color=56BEB8" /> -->
+
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/wallacewolv/podcastr?color=56BEB8" /> -->
+
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/wallacewolv/podcastr?color=56BEB8" /> -->
+</p>
+
 <h3 align="center"> Status</h3>
 
- <h4 align="center"> 
+ <!-- <h4 align="center"> 
 	🚧  Podcastr 🚀 Under construction...  🚧
-</h4> 
+</h4> -->
 
  <!-- <h1 align="center"> 
   <img height="320" src="./assets/images/calculator_flutter.gif" alt="Calculator_flutter" />
